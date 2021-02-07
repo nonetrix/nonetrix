@@ -1,1 +1,5 @@
-I am a trashy programmer that barley know's what they are doing.. I code in python mostly but I am trying to get better on low level programming in C++ <-- this changes a lot since I can't deside on what programming lanuage to use for low level programming :|
+	(⌒▽⌒)☆
+  
+  Hello there I am a random person on the internet that can pretends to know anything.. I program in Python and C++ but I am not very good at both
+  
+  I spend most of my time procrastinating watching youtube so I am not very active. (;ω; )
