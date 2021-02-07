@@ -1,1 +1,1 @@
-I am a trashy programmer that barley know's what they are doing.. 
+I am a trashy programmer that barley know's what they are doing.. I code in python mostly but I am trying to get better on low level programming in C++ <-- this changes a lot since I can't deside on what programming lanuage to use for low level programming :|
