@@ -1,6 +1,1 @@
-Hello there! I am a random person on the internet that can pretends to know stuff.. I program in Python and C++ but I am not very good at both
-  
-I spend most of my time procrastinating watching youtube so I am not very active. (;ω; )
-
-
-(⌒ω⌒)
+I exist I also pretend to code sometimes but I'm not very good at it
