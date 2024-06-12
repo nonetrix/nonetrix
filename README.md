@@ -1,4 +1,4 @@
-# <p align="center">Hey there! ｜ やあ！</p>
+# <p align="center">Ay there! ｜ よ！</p>
 
 <p align="center">
     <img src="./azumanga-daioh-osaka.gif" alt="osaker"/>
