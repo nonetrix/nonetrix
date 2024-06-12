@@ -19,15 +19,25 @@
 - C++
 - C
 - Rust
+### Want to learn｜学びたい
+- AMD64 assembly
+- Low level programming in general
+- Kotlin
 
 ---
 
 # Human languages ｜ 話せる人間言語：
 ### Definitely ｜ もちろん
-- English
+- English - 🇺🇲
 ### Sorta｜ ちょっと
-- Japanese
-
+- Japanese - 🇯🇵
+### Want to learn｜学びたい
+- Russian - 🇷🇺
+- Korean - 🇰🇷
+- Chinese - 🇹🇼
+- French - 🇫🇷
+- German - 🇩🇪
+- Hebrew - 🇮🇱
 ---
 
 # About me｜自己紹介：
