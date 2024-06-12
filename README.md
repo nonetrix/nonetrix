@@ -11,7 +11,7 @@
 
 ---
 
-# Computer languages ｜ 話せるパソコンの言語：
+# Computer languages ｜ 話せるパソコン言語：
 ### Definitely ｜ もちろん
 - Nix
 - Python
@@ -22,7 +22,7 @@
 
 ---
 
-# Human languages ｜ 話せる人間の言語：
+# Human languages ｜ 話せる人間言語：
 ### Definitely ｜ もちろん
 - English
 ### Sorta｜ ちょっと
