@@ -1,6 +1,6 @@
 # <p align="center">Hey there! ｜ やあ！</p>
 
-![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)
+![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)![alt text](./azumanga-daioh-osaka.gif)
 
 
 ---
