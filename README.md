@@ -30,7 +30,7 @@
 
 ---
 
-# About me｜自己紹介
+# About me｜自己紹介：
 <p align="center">Dumb "programmer" that doesn't do much besides report bugs and publish configs and scripts. I technically know Python, Nix the best, then a bit of C++, C, and Rust. I have deep intrest in Linux, computers, anime, video games, and other cultures. I am 18 years old and live in the States in the middle of nowhere in the southern United States. I run NixOS on my desktop.</p>
 
 ---
