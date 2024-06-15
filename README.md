@@ -46,3 +46,8 @@
 ---
 
 <p align="center">ぼくは馬鹿なプログラマーんですよね、普段でバグを報告して設定を投稿する。ぼくはPythonとNixが一番よく知っている、さらにC++、C、C++が知っているです。趣味はLinux、パソコン、アニメ、、ビデオゲーム、海外の文化ですよね。ぼくは１８歳です、アメリカ南部に積んでいる。パソコンでNixOSを使用している。</p>
+
+---
+
+<p align="center">
+    <img src="./chiyo-chichi.gif" alt="chiyo chichi"/>
